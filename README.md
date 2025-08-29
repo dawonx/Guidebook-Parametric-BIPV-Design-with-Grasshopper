@@ -20,7 +20,7 @@
 1.  **Rhino 8** (또는 그 이상 버전)
 2.  **Grasshopper** (Rhino 7 이상 버전에 기본 내장)
 3.  **Ladybug Tools 1.8.0**
-    * [Ladybug Tools 다운로드 링크](www.food4rhino.com/en/app/ladybug-tools)
+    * [Ladybug Tools 다운로드 링크](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps)
 4.  **Ladybug Tools 연동 프로그램**: Ladybug Tools의 모든 기능을 사용하기 위해 필요한 필수 연동 프로그램들입니다. **오류 방지를 위해 반드시 아래 링크의 'Compatibility Matrix'를 확인하고, Ladybug Tools 1.8.0 버전에 맞는 정확한 버전으로 설치해야 합니다.**
     * Radiance
     * OpenStudio
