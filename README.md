@@ -1,4 +1,4 @@
-# "건물형 태양광발전 - 가이드 북 (Building-Integrated Photovoltaics: A Guidebook)" 교재 - Grasshopper를 활용한 파라메트릭 BIPV 설계
+# 건물형 태양광발전 - 가이드 북 (Building-Integrated Photovoltaics: A Guidebook) - Grasshopper를 활용한 파라메트릭 BIPV 설계
 
 이곳은 **'건물형 태양광발전 - 가이드 북 (Building-Integrated Photovoltaics: A Guidebook)'** 의 **4.2장, "Grasshopper를 활용한 파라메트릭 BIPV 설계"** 에서 사용되는 예제 파일을 제공하는 공식 GitHub 저장소입니다.
 
