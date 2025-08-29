@@ -6,7 +6,7 @@
 
 ---
 
-## 📂 저장소 구성 (Release)
+## 📂 파일 구성 (Release)
 
 * **BIPV_Analysis_Example.3dm**: 예제에서 사용되는 기본 3D 모델이 포함된 Rhino 파일입니다. (주변 건물, 분석 대상 매스 등)
 * **BIPV_Analysis_Workflow.gh**: Ladybug Tools를 활용한 BIPV 일조시간 및 잠재 발전량 분석 워크플로우가 담긴 Grasshopper 스크립트 파일입니다.
