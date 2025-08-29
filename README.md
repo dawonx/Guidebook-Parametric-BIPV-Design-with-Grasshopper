@@ -6,11 +6,10 @@
 
 ---
 
-## 📂 저장소 구성 (Repository Contents)
+## 📂 저장소 구성 (Release)
 
 * **BIPV_Analysis_Example.3dm**: 예제에서 사용되는 기본 3D 모델이 포함된 Rhino 파일입니다. (주변 건물, 분석 대상 매스 등)
 * **BIPV_Analysis_Workflow.gh**: Ladybug Tools를 활용한 BIPV 일조시간 및 잠재 발전량 분석 워크플로우가 담긴 Grasshopper 스크립트 파일입니다.
-* **README.md**: 현재 읽고 계신 이 파일입니다.
 
 ---
 
@@ -18,7 +17,7 @@
 
 이 예제 파일을 원활하게 사용하기 위해서는 아래의 소프트웨어 및 플러그인이 반드시 설치되어 있어야 합니다.
 
-1.  **Rhino 7** (또는 그 이상 버전)
+1.  **Rhino 8** (또는 그 이상 버전)
 2.  **Grasshopper** (Rhino 7 이상 버전에 기본 내장)
 3.  **Ladybug Tools 1.8.0**
     * [Ladybug Tools 다운로드 링크](https://www.food4rhino.com/en/app/ladybug-tools)
@@ -37,7 +36,7 @@
 2.  '사전 준비 사항'에 명시된 모든 프로그램과 플러그인이 정상적으로 설치되었는지 확인합니다.
 3.  Rhino에서 `BIPV_Analysis_Example.3dm` 파일을 엽니다.
 4.  Rhino 명령어 입력창에 `Grasshopper`를 입력하여 Grasshopper 창을 엽니다.
-5.  Grasshopper 메뉴의 `File` > `Open Document...`를 통해 `BIPV_Analysis_Workflow.gh` 파일을 엽니다.
+5.  Grasshopper 메뉴의 `File` > `Open Document...`를 통해 `BIPV_Analysis_Workflow.gh` 파일을 엽니다. (혹은 Drag&Drop)
 6.  교재의 **4.2장**에 설명된 1단계부터 10단계까지의 지침에 따라 스크립트를 순서대로 실행하며 파라메트릭 BIPV 설계 과정을 학습합니다.
 
 ---
